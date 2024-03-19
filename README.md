@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
 # form validation with javascript
  This project is a good one to get your head's straight on how to validate a form with javascript on your own term and to 
  be more effective with it. without looking at your console when writing your program 100%
